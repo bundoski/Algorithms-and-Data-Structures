@@ -1,2 +1,2 @@
 # APSvezbi
-Laboratoriski i kolokviumski zadaci APS
+Laboratoriski / kolokviumski zadaci Algoritmi i podatocni strukturi, za listi.
