@@ -1,2 +1,2 @@
 # APSvezbi
-Laboratoriski / kolokviumski zadaci Algoritmi i podatocni strukturi, za listi.
+Laboratory exercises for Algorithms and Data Structures class.
